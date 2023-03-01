@@ -5,7 +5,7 @@ This Github repository contains replication files for [Park and Kang (2019)](htt
 
 ## Folders
 
-### NELS88
+### ECLSK
 
 ECLSK folder contains 1.Analysis.R, and 3.Summary.R files, and replicates the data analysis in Section 6 of the paper. 
 
